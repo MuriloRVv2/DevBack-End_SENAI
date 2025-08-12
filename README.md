@@ -24,7 +24,7 @@ Exercícios práticos de Java
 
 ###
 
-<p align="left">I'm Murilo from Brazil<br> 📚 I'm currently learning Back-End Programming </p>
+<p align="left">I'm Murilo, I'm from Brasil.<br> 📚 I'm currently learning Back-End Programming </p>
 
 ###
 
